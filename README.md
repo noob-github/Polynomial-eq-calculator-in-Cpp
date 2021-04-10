@@ -9,12 +9,15 @@ Input format examples
 2. 3\*x\*x-4.5\*x+3
 3. 4.5\*x\*x\*x+3.5\*x\*x+2\*x-5
 
+## Output interpretation
+1. The line starting with Hooray gives the value of f(x) you entered at given value of variable (you entered)
+
 ## Usage in linux
 1. git clone <br>
 2. cd <directory> <br>
 3. g++ file_name.cpp -o file_name <br>
 4. ./file_name<br>
-Note - here file_name will solve_equation_using_split .
+Note - here file_name will be solve_equation_using_split .
   
 ## Usage in Windows 
 In windows you can I compile this file as you normally compile cpp file.
