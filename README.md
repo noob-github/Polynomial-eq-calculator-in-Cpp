@@ -4,4 +4,5 @@ As C++ does not have any inbuilt function to solve polynomial equation . I wrote
 ## Usage in linux
 1. git clone <br>
 2. cd <directory> <br>
-3. g++ file.cpp -o file
+3. g++ file_name.cpp -o file_name <br>
+4. ./file_name
