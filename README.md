@@ -1,4 +1,4 @@
-# Polynomial Equation Calculator in Cpp
+# Polynomial Equation Evaluator in Cpp
 As C++ does not have any inbuilt function to solve polynomial equation . I wrote a code to calculate polynomial equation at a given value of x for my college work .Looking forward for contiributions.
 
 ## Input format
